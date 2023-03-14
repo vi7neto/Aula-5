@@ -1,0 +1,7 @@
+-Revisão, - Pull Request.
+
+Pull Request quer dizer solicitação de puxar, em uma tradução livre. 
+
+E isso está diretamente ligado ao fato de que, ao enviar a notificação, as demais pessoas desenvolvedoras saberão que precisam fazer o merge do código na branch principal.
+
+É um mecanismo no qual o DEV sinaliza que concluiu o desenvolvimento de uma feature. 
